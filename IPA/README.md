@@ -1,3 +1,0 @@
-# IPA
-
-There're ipas.
